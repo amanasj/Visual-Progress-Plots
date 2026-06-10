@@ -6,6 +6,8 @@
 
 <br>
 
+v0.95 - added tgz file upload support and automatic volume entry
+
 v0.93 - added drag and drop of MAIA PDF files for automatic sensitivity input and automatic presentation creation
 
 
